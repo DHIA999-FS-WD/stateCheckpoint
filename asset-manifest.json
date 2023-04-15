@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/stateCheckpoint/static/css/main.42e270df.css",
+    "main.js": "/stateCheckpoint/static/js/main.e1628251.js",
+    "static/js/787.46ff490c.chunk.js": "/stateCheckpoint/static/js/787.46ff490c.chunk.js",
+    "static/media/dhia.jpg": "/stateCheckpoint/static/media/dhia.0a084b0ff0e44ef5500d.jpg",
+    "index.html": "/stateCheckpoint/index.html",
+    "main.42e270df.css.map": "/stateCheckpoint/static/css/main.42e270df.css.map",
+    "main.e1628251.js.map": "/stateCheckpoint/static/js/main.e1628251.js.map",
+    "787.46ff490c.chunk.js.map": "/stateCheckpoint/static/js/787.46ff490c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42e270df.css",
+    "static/js/main.e1628251.js"
+  ]
+}
