@@ -1,0 +1,46 @@
+.App{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background: #e09f3e;
+  color: #fff3b0;
+  font-size: 3rem;
+  word-spacing: 4px;
+  font-weight: bold;
+  height: 100vh;
+}
+.img{
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  /* display: none; */
+}
+.btn{
+  background: #9e2a2b;
+  color: #fff3b0;
+  height: 80px;
+  width: 200px;
+  margin: 20px;
+  font-size: 1.5rem;
+  font-weight: bold;
+
+}
+
+.text{
+  margin: 20px;
+  border:5px solid #9e2a2b ;
+  box-shadow: inset 12px 10px 20px 10px rgb(1, 1, 1,0.5);
+}
+.time{
+  font-size: 1.5rem;
+  position: absolute;
+  top: 0;
+  background: #540b0e;
+  width: 80%;
+  text-align: center;
+  height: 40px;
+}
+.time span{
+  color: #ffc300;
+} 
